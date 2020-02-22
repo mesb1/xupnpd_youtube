@@ -29,7 +29,7 @@
 
   Optional:
    - Plugin uses third party server to get video and retransmit it to your dlna clients.
-   - You may use it as is, or start your own server, check README.md inside files dir.
+   - You may use it as is, or start your own server, check [README.md](https://github.com/mesb1/xupnpd_youtube/blob/master/files/README.md) inside files dir.
 
 ### Links
 
