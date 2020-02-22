@@ -1,5 +1,5 @@
-# xupnpd_youtube new plugin for xupnpd v1
-  New unofficial plugin from third party developers, thanks to everyone who let this piece of software to be.
+# xupnpd_youtube fixed plugin for xupnpd v1
+  Fixed plugin from third party developers, thanks to everyone who let this piece of software to be.
   
 
 ## Features
@@ -12,6 +12,7 @@
   - playlist/id
   - search/search_string/optional[region](https://www.iso.org/iso-3166-country-codes.html)/optional[language(ISO 639-1 Code)](http://www.loc.gov/standards/iso639-2/php/code_list.php)
   - YouTube channels: channel/mostpopular/optional[region](https://www.iso.org/iso-3166-country-codes.html)
+  - Uses youtube api v3
 
   
 ### Tech
