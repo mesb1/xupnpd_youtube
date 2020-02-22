@@ -28,7 +28,7 @@
    - Get server: centos 6 32 bit was cheapest vm we can get.
    - Run: yum update
    - Install screen: yum install screen
-   - Run https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+   - Run: curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
    - Run youtube-dl to check its ok or maybe need some additional packages.
    - Put yt-proxy to filesystem.
    - Login to server, run screen, inside screen run yt-proxy like this: ./yt-proxy 8484 and detach from screen.
