@@ -37,4 +37,4 @@
   
 ## youtube-dl
 
-  Greate project, please get updated one for yourself, it is used with yt-proxy only.
+  Greate project, please get updated one for yourself, it is used with yt-proxy only: http://yt-dl.org/
