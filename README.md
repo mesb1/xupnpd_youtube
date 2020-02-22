@@ -1,5 +1,5 @@
-# xupnpd_youtube plugin for xupnpd v1
-  Unofficial plugin from third party developers, thanks to everyone who let this piece of software to be.
+# xupnpd_youtube new plugin for xupnpd v1
+  New unofficial plugin from third party developers, thanks to everyone who let this piece of software to be.
   
 
 ## Features
