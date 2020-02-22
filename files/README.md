@@ -30,6 +30,7 @@
    - Run https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
    - Run youtube-dl to check its ok or maybe need some additional packages.
    - Put yt-proxy to filesystem.
-   - Login to server, run screen, inside screen run yt-proxy like this: 
+   - Login to server, run screen, inside screen run yt-proxy like this: ./yt-proxy 8484 and detach from screen.
+   - Change 2 server address inside xupnpd_youtube file section: videourl =
   
   
