@@ -18,6 +18,8 @@
 
   This file allow get video by plugin for your dlna clients.
   
+  If you want your own server you can build it with this.
+  
   It uses youtube-dl project too. You need get updated version for yourself.
   
   Example:
