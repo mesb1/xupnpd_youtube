@@ -1,5 +1,5 @@
 # Tech info
-  Here is info how works with this.
+  Here is info how works with this files.
   
 
 ## xupnpd_youtube
@@ -16,8 +16,18 @@
   
 ## yt-proxy
 
-  This file allow get video for your dlna clients.
+  This file allow get video by plugin for your dlna clients.
   
-  It uses youtube-dl project file too. You need get updated version for yourself.
+  It uses youtube-dl project too. You need get updated version for yourself.
+  
+  Example:
+  
+   - Get server: centos 6 32 bit was cheapest vm we can get.
+   - Run: yum update
+   - Install screen: yum install screen
+   - Run https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+   - Run youtube-dl to check its ok or maybe need some additional packages.
+   - Put yt-proxy to filesystem.
+   - Login to server, run screen, inside screen run yt-proxy like this: 
   
   
