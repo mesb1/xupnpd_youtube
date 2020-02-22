@@ -27,6 +27,9 @@
    - Replace '***' with your new key in section '&key=***' inside plugin file. Save file.
    - Restart xupnpd, remove any old feeds that was made for youtube earlier. Add new one based on ui help patterns.
 
+  Optional:
+   - Plugin uses third party server to get video and retransmit it to your dlna clients.
+   - You may use it as is, or start your own server, check README.md inside files dir.
 
 ### Links
 
