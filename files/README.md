@@ -1,5 +1,5 @@
 # Tech info
-  Here is info how works with this files.
+  Here is info how to work with this files.
   
 
 ## xupnpd_youtube
