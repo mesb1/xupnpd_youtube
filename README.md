@@ -9,7 +9,7 @@
   - id from http://www.youtube.com/channel/id
   - favorites/username 
   - favorites/id
-  - playlist/id,
+  - playlist/id
   - search/search_string/optional[region](https://www.iso.org/iso-3166-country-codes.html)/optional[language(ISO 639-1 Code)](http://www.loc.gov/standards/iso639-2/php/code_list.php)
   - YouTube channels: channel/mostpopular/optional[region](https://www.iso.org/iso-3166-country-codes.html)
 
