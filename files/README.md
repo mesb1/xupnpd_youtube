@@ -34,3 +34,6 @@
    - Change 2 server address inside xupnpd_youtube file section: videourl =
   
   
+## youtube-dl
+
+  Greate project, please get updated one for yourself, it is used with yt-proxy only.
