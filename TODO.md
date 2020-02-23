@@ -1,7 +1,7 @@
 
-#Todo
+# Todo
 
-##Tech misc
+## Tech misc
 
   Main problem, is that usually xupnpd builded without ssl support, so you cannot use it for direct youtube watching as yt switched to https completely.
   
