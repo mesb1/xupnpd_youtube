@@ -30,7 +30,7 @@
    - Install screen: yum install screen
    - Run: curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
    - Run youtube-dl to check its ok or maybe need some additional packages.
-   - Put yt-proxy to filesystem.
+   - Put yt-proxy and corrupted.mp4 to filesystem.
    - Login to server, run screen, inside screen run yt-proxy like this: ./yt-proxy 8484 and detach from screen.
    - Check firewall settings for port 8484 tcp to be open.
    - Change 2 server address inside xupnpd_youtube file section: videourl =
