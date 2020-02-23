@@ -10,5 +10,6 @@
   We cannot use router for youtube-dl, because of high resource usage, but there is still things that can be done better!
   
   That would be great to change plugin to use curl with ssl support to play https stream from youtube directly and allow external server only gets right url, as youtube-dl needs much resources for its work.
+  But we shoud avoid youtube-dl faq: https://github.com/ytdl-org/youtube-dl#i-extracted-a-video-url-with--g-but-it-does-not-play-on-another-machine--in-my-web-browser
   
   
