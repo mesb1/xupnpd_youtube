@@ -25,7 +25,7 @@
   
   Example:
   
-   - Get server: centos 6 32 bit was cheapest vm we can get.
+   - Get server: centos 6 32 bit was cheapest vm we can get. (at first look minimal centos 7 x64 works fine too)
    - Run: yum update
    - Install screen: yum install screen
    - Run: curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
