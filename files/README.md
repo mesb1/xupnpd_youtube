@@ -17,7 +17,7 @@
   
 ## yt-proxy
 
-  This file allow get video by plugin for your dlna clients.
+  This file allow get video by plugin for your dlna clients, it receives video id and quality info from xupnpd, gets right url and starts stream from https to http for xupnpd.
   
   If you want your own server you can build it with this.
   
