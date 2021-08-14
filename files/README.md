@@ -21,7 +21,7 @@
    
   This file allow get video by plugin for your dlna clients, it receives video id and quality info from xupnpd, gets right url and starts stream from https to http for xupnpd.
   
-  You can join for development here:
+  You can join for development here ot get updated version:
   https://github.com/mejgun/yt-proxy
   
   It uses youtube-dl project too. You need get updated version for yourself.
