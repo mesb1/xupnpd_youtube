@@ -36,6 +36,7 @@
 
   - [xupnpd](https://github.com/clark15b/xupnpd)
   - [youtube-dl](http://yt-dl.org/)
+  - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
   
 
 ### Feedback
