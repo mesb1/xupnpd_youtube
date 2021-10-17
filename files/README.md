@@ -46,6 +46,7 @@
   
 ## yt-dlp
 
+  Another great project, please get updated one for yourself: https://github.com/yt-dlp/yt-dlp/
   As you might already know, something is wrong with development process of youtube-dl, so yt-dlp forked now.
   You can place and rename it's executable file instead of original youtube-dl and it should work out of the box.
   Also it uses atleast python 3.6, so take care of it. Sometimes you might need to edit file to replace its header from python to python3.6 for some systems.
