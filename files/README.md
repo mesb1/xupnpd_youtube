@@ -50,3 +50,11 @@
   As you might already know, something is wrong with development process of youtube-dl, so yt-dlp forked now.
   You can place and rename it's executable file instead of original youtube-dl and it should work out of the box.
   Also it uses atleast python 3.6, so take care of it. Sometimes you might need to edit file to replace its header from python to python3.6 for some systems.
+  
+## xupnpd_web2m3u.sh
+
+  Useful script for devices that can play direct m3u links, but know nothing about dlna, so can't use xupnpd directly.
+  Script for generating m3u playlist witl url to youtube playlist items. You can add it into crontab and fix it for path and playlist name.
+  Today we have lots of cheap dvb-t2/c receivers on the market, it supports IPTV via lan or wifi. (selenga hd980d, world vision t625a lan, etc)
+  With every run, it generate m3u list directly available for such tuners.
+  Technically, xupnpd used as web server and provider of initial list for converting.
