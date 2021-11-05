@@ -54,7 +54,8 @@
 ## xupnpd_web2m3u.sh
 
   Useful script for devices that can play direct m3u links, but know nothing about dlna, so can't use xupnpd directly.
-  Script for generating m3u playlist witl url to youtube playlist items. You can add it into crontab and fix it for path and playlist name.
+  Script for generating m3u playlist witl url to youtube playlist items. 
+  Add it into crontab and fix it for path and playlist name and for 360p/720p resolution.
   Today we have lots of cheap dvb-t2/c receivers on the market, it supports IPTV via lan or wifi. (selenga hd980d, world vision t625a lan, etc)
   With every run, it generate m3u list directly available for such tuners.
   Technically, xupnpd used as web server and provider of initial list for converting.
