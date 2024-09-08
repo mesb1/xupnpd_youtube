@@ -19,7 +19,7 @@
 
   You can get xupnpd from github or via repo for you device. Usually it can be founded inside openwrt, entware repos.
   
-  Plugin can get video only 360p or 720p. If you have bad internet, choose 360p.
+  Plugin can get video only 360p or 720p. If you have bad internet, choose 360p. (For now it is only 360p as youtube dropped format 720p aka 22)
 
   Required minimal: 
    - Curl with ssl support.
