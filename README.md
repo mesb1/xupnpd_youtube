@@ -1,6 +1,7 @@
 # About
-**  xupnpd_youtube fixed plugin for xupnpd v1
-  Fixed plugin from third party developers, thanks to everyone who let this piece of software to be.
+*  xupnpd_youtube fixed plugin for xupnpd v1 with youtube api v3 support
+
+Fixed plugin from third party developers, thanks to everyone who let this piece of software to be.
   
 
 ## Features
